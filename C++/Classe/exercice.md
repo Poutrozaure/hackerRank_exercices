@@ -20,16 +20,16 @@ __Output Format__
 The code provided by HackerRank will use your class members to set and then get the elements of the Student class.
 
 __Sample Input__
-'''
+```
 15
 john
 carmack
 10
-'''
+```
 __Sample Output__
-'''
+```
 15
 carmack, john
 10
-'''
+```
 15,john,carmack,10
